@@ -1,0 +1,28 @@
+body {
+  color: #ff2e63;
+  background-color: #eaeaea;
+;
+}
+
+
+.login{
+  text-align: center;
+  color: #33B8AB;
+}
+h1{
+  text-align: center;
+  color: #88304e;
+}
+h2{
+  color: #252a34;
+}
+h3{
+  color: #ff2e63;
+}
+table{
+  padding-right: 20px;
+  margin-right: 20px;
+}
+img {
+  border-radius: 50%;
+}
