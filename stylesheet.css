@@ -1,23 +1,23 @@
 body {
-  color: #ff2e63;
-  background-color: #eaeaea;
+  color: #3f72af;
+  background-color: #112d4e;
 ;
 }
 
 
 .login{
   text-align: center;
-  color: #33B8AB;
+  color: #3f72af;
 }
 h1{
   text-align: center;
-  color: #88304e;
+  color: #f9f7f7;
 }
 h2{
-  color: #252a34;
+  color: #dbe2ef;
 }
 h3{
-  color: #ff2e63;
+  color: #3f72af;
 }
 table{
   padding-right: 20px;
